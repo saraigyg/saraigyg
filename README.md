@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saraigyg
-- 👀 I’m interested in Front end Developer
+- 👀 I’m interested in Front end Development
 - 🌱 I’m currently learning HTML, CSS, Javascript, React, Java
 - 💞️ I’m looking to collaborate on Front End projects
 - 📫 How to reach me saraiglezyglez@gmail.com
